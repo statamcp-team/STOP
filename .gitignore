@@ -1,0 +1,8 @@
+# .gitignore
+
+# OS X
+*.DS_Store
+
+# IDEs
+.vscode
+.idea
