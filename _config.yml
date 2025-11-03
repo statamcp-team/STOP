@@ -1,0 +1,12 @@
+# Site settings
+title: STOP - StataMCP Team OpenData Projects
+description: STOP是由上海比翼视界信息科技有限公司与StataMCP-Team共同发起的一个开源数据计划
+
+# GitHub Pages settings
+baseurl: "" # 留空，因为使用自定义域名，不需要仓库名路径
+url: "https://opendata.ai4cssci.com" # 你的自定义域名
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
